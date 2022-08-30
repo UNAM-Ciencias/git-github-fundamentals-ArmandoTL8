@@ -1,5 +1,8 @@
 # :wave: The Basics of GitHub 
 
+# *Ya terminé de leer todo el texto y me pidió que hiciera un _pull request_ jsjs*
+
+![Esta es una imagen](https://lab.github.com/public/images/avatar.png)
 ## 🤓 Course overview and learning outcomes 
 
 The goal of this course is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform. 🚀
